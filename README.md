@@ -5,6 +5,6 @@
 
 * ⚒️ C++ / Java
 * ❤ Code for love
-- 🔭 Working on DL / CV
+* 🔭 Working on DL / CV
 * 🍟🍔🍕🌭🍿🥓 Love delicious food!
 -->
