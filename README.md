@@ -6,7 +6,7 @@
 
 Student @ ShanghaiTech University
 
-* ⚒️ C++ / Java
+* ⚒️ C++ / Python
 * ❤ Code for love
 * 🔭 Working on DL / CV
 * 🍟🍔🍕🌭🍿🥓 Love delicious food!
