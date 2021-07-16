@@ -15,9 +15,9 @@
 
 Student @ ShanghaiTech University
 
-* ⚒️ C++ / Python / Node.js
+* ⚒️ C++ / Python / JS
 * ❤ Code for love
-* 🔭 Working on DL / CV / Blockchain
+* 🔭 Working on DL / CV
 * 🍟🍔🍕🌭🍿🥓 Love delicious food!
 
 #### Tools
