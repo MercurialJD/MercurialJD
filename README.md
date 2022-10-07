@@ -13,7 +13,7 @@
 />
 </a>
 
-Student @ University of Illiois Urbana-Champaign
+Student @ UIUC
 
 * ⚒️ C++ / Python / Node.JS / React
 * ❤ Code for love
