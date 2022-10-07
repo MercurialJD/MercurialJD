@@ -13,7 +13,7 @@
 />
 </a>
 
-Student @ ShanghaiTech University
+Student @ University of Illiois Urbana-Champaign
 
 * ⚒️ C++ / Python / Node.JS / React
 * ❤ Code for love
